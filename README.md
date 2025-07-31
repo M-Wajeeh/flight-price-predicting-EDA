@@ -34,7 +34,6 @@ The dataset contains flight-related features such as:
 - Extracted hours and minutes from the `Duration` column.
 - Handled missing/null values.
 - Encoded categorical variables like `Airline`, `Source`, and `Destination`.
-- Visualized feature relationships using seaborn/matplotlib.
 - Performed correlation analysis between variables and price.
 
 ---
